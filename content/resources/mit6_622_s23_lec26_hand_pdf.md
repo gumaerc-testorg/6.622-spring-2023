@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/6-622-power-electronics-spring-2023/mit6_622_s23_lec26_hand.pdf
+file: /ol-ocw-studio-app/courses/6-622-power-electronics-spring-2023/mit6_622_s23_lec26_hand.pdf
 file_size: 1074834
 file_type: application/pdf
 image_metadata:
