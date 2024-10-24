@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/6-622-power-electronics-spring-2023/mit6_622s23_lecture_11_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/6-622-power-electronics-spring-2023/mit6_622s23_lecture_11_360p_16_9.mp4
 file_size: 132883484
 file_type: video/mp4
 image_metadata:
