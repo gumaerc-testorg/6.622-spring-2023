@@ -22,7 +22,7 @@ video_files:
   video_transcript_file: /courses/6-622-power-electronics-spring-2023/1vhAz5ZCgHm9AY3fmWjHN63ZCt2p3Nml__transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: distortion, displacement, power factor, root mean square
+  video_tags: distortion, displacement, power factor, root mean square, 6-622-power-electronics-spring-2023
   youtube_description: "MIT 6.622 Power Electronics, Spring 2023\nInstructor: David\
     \ Perreault\n\nView the complete course\_(or resource): https://ocw.mit.edu/courses/6-622-power-electronics-spring-2023/\L\
     \nYouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62UTc77mJoubhDELSC8lfR0\n\
