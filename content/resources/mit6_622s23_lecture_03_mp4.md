@@ -22,7 +22,7 @@ video_files:
   video_transcript_file: /courses/6-622-power-electronics-spring-2023/1w39rMEqqQmrV2Xj3K9bjoTt9vU1m4x1m_transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: commutation, load regulation, leakage, converters, rectifiers
+  video_tags: commutation, load regulation, leakage, converters, rectifiers, 6-622-power-electronics-spring-2023
   youtube_description: "MIT 6.622 Power Electronics, Spring 2023\nInstructor: David\
     \ Perreault\n\nView the complete course\_(or resource): https://ocw.mit.edu/courses/6-622-power-electronics-spring-2023/\L\
     \nYouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62UTc77mJoubhDELSC8lfR0\n\
