@@ -13,7 +13,7 @@ learning_resource_types:
 - Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 6.622 Power Electronics, Problem Set 6
+title: Problem Set 6
 uid: b49241fe-2e68-48d6-9b9d-a18442828166
 video_files:
   archive_url: ''
