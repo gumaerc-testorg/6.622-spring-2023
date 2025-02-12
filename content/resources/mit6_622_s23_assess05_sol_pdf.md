@@ -13,7 +13,7 @@ learning_resource_types:
 - Exams with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 6.622 Power Electronics, Assessment 5 Solutions
+title: Assessment 5 Solutions
 uid: 77e1c9af-c762-4783-a46e-7c4ec71d8f6f
 video_files:
   archive_url: ''

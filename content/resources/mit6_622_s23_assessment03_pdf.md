@@ -13,7 +13,7 @@ learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 6.622 Power Electronics, Assessment 3
+title: Assessment 3
 uid: a52ef46e-72fc-4b45-8b29-591aab4b7442
 video_files:
   archive_url: ''

@@ -13,7 +13,7 @@ learning_resource_types:
 - Design Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 6.622 Design Project Description
+title: Design Project Description
 uid: fe3bbe6f-c422-4fe4-9b11-f664446293af
 video_files:
   archive_url: ''
