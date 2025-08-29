@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/power-electronics/mit6_622_s23_assess06_sol.pdf
+file: /ol-ocw-studio-app/courses/6-622-power-electronics-spring-2023/mit6_622_s23_assess06_sol.pdf
 file_size: 323924
 file_type: application/pdf
 image_metadata:
